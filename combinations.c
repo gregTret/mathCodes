@@ -16,7 +16,7 @@ int main(long long int argc, char **argv) {
   uint64_t s3=1;
   
   if (argc!=3){
-    printf("\nWrong Format\n./test INT INT\nNOTE: Works Best With Integers Less Than or Equal To 20\n\n");
+    printf("\nWrong Format\n./test INT INT\n\n");
     return 0;
   }
 
