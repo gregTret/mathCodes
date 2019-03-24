@@ -2,9 +2,14 @@ This repository contains various programs which assist in mathematical processes
 
 
 CONTENTS:
+  Disc.java----------------------------- Generating and printing Fibonacci Sequencecs
+  Prime.java---------------------------- Finding the nth prime number
+  combinations.c------------------------ Calculating Combination
+  gcd.c--------------------------------- Calculating the greatest common denominator of two integers
   matrixmult.c  ------------------------ Multiplying two matrices by each other (of any reasonable size)
+  permutations.c------------------------ Calculating Permutations
   primeNumberTester.c ------------------ Testing the primality of a number up to 64 bits in size (unsigned)
   statisticalAnalysis.c----------------- Calculating statistical averages of a given set of numbers
-  permutations.c------------------------ Calculating Permutations
-  combinations.c------------------------ Calculating Combinations
-  gcd.c--------------------------------- Calculating the greatest common denominator of two integers
+
+
+  
