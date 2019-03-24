@@ -1,3 +1,8 @@
+/*
+   Created by Gregory Tretiakov
+   Program to calculate permutations 
+*/
+
 #include<stdio.h>
 #include <stdint.h>
 #include <inttypes.h>
