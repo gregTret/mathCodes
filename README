@@ -5,3 +5,6 @@ CONTENTS:
   matrixmult.c  ------------------------ Multiplying two matrices by each other (of any reasonable size)
   primeNumberTester.c ------------------ Testing the primality of a number up to 64 bits in size (unsigned)
   statisticalAnalysis.c----------------- Calculating statistical averages of a given set of numbers
+  permutations.c------------------------ Calculating Permutations
+  combinations.c------------------------ Calculating Combinations
+  gcd.c--------------------------------- Calculating the greatest common denominator of two integers
