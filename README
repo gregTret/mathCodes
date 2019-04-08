@@ -10,13 +10,14 @@ CONTENTS:
 [1]  Disc.java----------------------------- Generating and printing Fibonacci Sequencecs
 [2]  Prime.java---------------------------- Finding the nth prime number
 [1]  bigNumber.java------------------------ Adding two numbers of infinite size together
+[3]  allPermutations.c--------------------- Displaying all of the permutations in order of a given number
 [2]  combinations.c------------------------ Calculating Combination
 [1]  gcd.c--------------------------------- Calculating the greatest common denominator of two integers
 [2]  matrixmult.c  ------------------------ Multiplying two matrices by each other (of any reasonable size)
 [1]  permutations.c------------------------ Calculating Permutations
 [3]  primeNumberTester.c ------------------ Testing the primality of a number up to 64 bits in size (unsigned) using bit shifts
 [1]  statisticalAnalysis.c----------------- Calculating statistical averages of a given set of numbers
-[3]  allPermutations.c--------------------- Displaying all of the permutations in order of a given number
+
 
 
   
