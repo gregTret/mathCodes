@@ -17,6 +17,7 @@ CONTENTS:
 [1]  permutations.c------------------------ Calculating Permutations
 [3]  primeNumberTester.c ------------------ Testing the primality of a number up to 64 bits in size (unsigned) using bit shifts
 [1]  statisticalAnalysis.c----------------- Calculating statistical averages of a given set of numbers
+[1]  statisticsT_Table.py------------------ Quick code for calculating Distributions (requires tTable.txt)
 
 
 
